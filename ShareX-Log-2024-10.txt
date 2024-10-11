@@ -1,0 +1,291 @@
+﻿2024-10-01 13:40:18.774 - ShareX starting.
+2024-10-01 13:40:18.787 - Version: 16.1
+2024-10-01 13:40:18.788 - Build: MicrosoftStore
+2024-10-01 13:40:18.788 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-01 13:40:18.788 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-01 13:40:18.791 - Operating system: Windows 10 Pro (64-bit)
+2024-10-01 13:40:18.798 - Running as elevated process: False
+2024-10-01 13:40:18.969 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-01 13:40:21.154 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-01 13:40:21.174 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-01 13:40:21.244 - MainForm init started.
+2024-10-01 13:40:21.615 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-01 13:40:21.624 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-01 13:40:21.785 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-01 13:40:22.593 - MainForm init finished.
+2024-10-01 13:40:23.064 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-01 13:40:23.066 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-01 13:40:23.066 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-01 13:40:23.066 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-01 13:40:23.066 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-01 13:40:23.070 - HotkeyManager started.
+2024-10-01 13:40:23.074 - WatchFolderManager started.
+2024-10-01 13:40:23.120 - Startup time: 4632 ms
+2024-10-01 13:40:45.403 - Arguments received: ""
+2024-10-01 14:50:11.280 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-01 14:50:11.280 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-01 14:50:11.280 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-01 14:50:11.535 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-01 14:50:11.668 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-01 14:50:12.115 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-01 14:52:19.387 - ShareX closing.
+2024-10-01 14:52:19.395 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-01 14:52:20.004 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-01 14:52:20.004 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-01 14:52:20.152 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-01 14:52:20.153 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-01 14:52:20.205 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-02 17:10:19.345 - ShareX starting.
+2024-10-02 17:10:19.354 - Version: 16.1
+2024-10-02 17:10:19.354 - Build: MicrosoftStore
+2024-10-02 17:10:19.354 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-02 17:10:19.354 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-02 17:10:19.357 - Operating system: Windows 10 Pro (64-bit)
+2024-10-02 17:10:19.361 - Running as elevated process: False
+2024-10-02 17:10:19.485 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-02 17:10:21.779 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-02 17:10:21.799 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-02 17:10:21.915 - MainForm init started.
+2024-10-02 17:10:22.232 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-02 17:10:22.241 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-02 17:10:22.433 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-02 17:10:23.216 - MainForm init finished.
+2024-10-02 17:10:23.716 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-02 17:10:23.718 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-02 17:10:23.718 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-02 17:10:23.718 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-02 17:10:23.718 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-02 17:10:23.722 - HotkeyManager started.
+2024-10-02 17:10:23.725 - WatchFolderManager started.
+2024-10-02 17:10:23.763 - Startup time: 4644 ms
+2024-10-02 17:10:46.729 - Arguments received: ""
+2024-10-02 17:10:52.684 - ShareX closing.
+2024-10-02 17:10:52.691 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-02 17:10:53.387 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-02 17:10:53.388 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-02 17:10:53.550 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-02 17:10:53.552 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-02 17:10:53.612 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 08:11:01.272 - ShareX starting.
+2024-10-03 08:11:01.280 - Version: 16.1
+2024-10-03 08:11:01.281 - Build: MicrosoftStore
+2024-10-03 08:11:01.281 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-03 08:11:01.281 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-03 08:11:01.286 - Operating system: Windows 10 Pro (64-bit)
+2024-10-03 08:11:01.290 - Running as elevated process: False
+2024-10-03 08:11:01.395 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 08:11:03.594 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 08:11:03.611 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 08:11:03.679 - MainForm init started.
+2024-10-03 08:11:03.992 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 08:11:03.999 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 08:11:04.149 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 08:11:04.893 - MainForm init finished.
+2024-10-03 08:11:05.348 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-03 08:11:05.349 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-03 08:11:05.349 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-03 08:11:05.349 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-03 08:11:05.349 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-03 08:11:05.353 - HotkeyManager started.
+2024-10-03 08:11:05.357 - WatchFolderManager started.
+2024-10-03 08:11:05.404 - Startup time: 4316 ms
+2024-10-03 08:11:19.822 - Arguments received: ""
+2024-10-03 08:13:02.552 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 08:13:02.552 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 08:13:02.552 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 08:13:02.752 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 08:13:02.871 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 08:13:03.103 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 21:00:31.992 - Arguments received: ""
+2024-10-03 21:00:33.454 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 21:00:33.456 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 21:00:33.456 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 21:00:33.549 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 21:00:33.656 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 21:00:33.965 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 23:03:43.854 - Arguments received: ""
+2024-10-03 23:05:45.829 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 23:05:45.829 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 23:05:45.830 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 23:05:45.907 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 23:05:46.027 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 23:05:46.213 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 23:06:02.814 - ShareX closing.
+2024-10-03 23:06:02.817 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 23:06:03.372 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-03 23:06:03.372 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 23:06:03.528 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-03 23:06:03.528 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 23:06:03.572 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-03 23:06:03.572 - ShareX closed.
+2024-10-04 07:50:35.644 - ShareX starting.
+2024-10-04 07:50:35.654 - Version: 16.1
+2024-10-04 07:50:35.655 - Build: MicrosoftStore
+2024-10-04 07:50:35.656 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-04 07:50:35.656 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-04 07:50:35.660 - Operating system: Windows 10 Pro (64-bit)
+2024-10-04 07:50:35.666 - Running as elevated process: False
+2024-10-04 07:50:35.829 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 07:50:37.693 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 07:50:37.712 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 07:50:37.797 - MainForm init started.
+2024-10-04 07:50:38.152 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 07:50:38.160 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 07:50:38.334 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 07:50:39.066 - MainForm init finished.
+2024-10-04 07:50:39.586 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-04 07:50:39.587 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-04 07:50:39.588 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-04 07:50:39.588 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-04 07:50:39.588 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-04 07:50:39.595 - HotkeyManager started.
+2024-10-04 07:50:39.598 - WatchFolderManager started.
+2024-10-04 07:50:39.644 - Startup time: 4274 ms
+2024-10-04 07:50:44.504 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 07:50:44.505 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 07:50:44.507 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 07:50:44.754 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 07:50:44.915 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 07:50:45.270 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 07:50:56.053 - Arguments received: ""
+2024-10-04 07:50:56.132 - ShareX closing.
+2024-10-04 07:50:56.135 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 07:50:56.640 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 07:50:56.640 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 07:50:56.778 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 07:50:56.778 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 07:50:56.825 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 07:50:56.825 - ShareX closed.
+2024-10-04 08:33:47.494 - ShareX starting.
+2024-10-04 08:33:47.500 - Version: 16.1
+2024-10-04 08:33:47.501 - Build: MicrosoftStore
+2024-10-04 08:33:47.501 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-04 08:33:47.502 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-04 08:33:47.507 - Operating system: Windows 10 Pro (64-bit)
+2024-10-04 08:33:47.510 - Running as elevated process: False
+2024-10-04 08:33:47.652 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 08:33:49.856 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 08:33:49.873 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 08:33:49.944 - MainForm init started.
+2024-10-04 08:33:50.301 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 08:33:50.307 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 08:33:50.471 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 08:33:51.195 - MainForm init finished.
+2024-10-04 08:33:51.720 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-04 08:33:51.729 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-04 08:33:51.729 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-04 08:33:51.729 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-04 08:33:51.729 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-04 08:33:51.733 - HotkeyManager started.
+2024-10-04 08:33:51.738 - WatchFolderManager started.
+2024-10-04 08:33:51.780 - Startup time: 4465 ms
+2024-10-04 08:33:58.148 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 08:33:58.148 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 08:33:58.149 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 08:33:58.390 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 08:33:58.539 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 08:33:58.802 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 08:34:06.614 - Arguments received: ""
+2024-10-04 08:34:23.255 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 08:34:23.258 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 08:34:23.263 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 08:34:23.447 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 08:34:23.582 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 08:34:23.799 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 10:14:34.165 - Arguments received: ""
+2024-10-04 14:16:42.248 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:16:42.596 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:16:50.666 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:16:50.666 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 14:16:50.672 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 14:16:50.773 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 14:16:50.928 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 14:16:51.150 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:17:36.188 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:17:36.512 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:17:43.020 - ShareX closing.
+2024-10-04 14:17:43.028 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:17:43.670 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 14:17:43.670 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 14:17:43.823 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 14:17:43.823 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 14:17:43.897 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 14:17:43.897 - ShareX closed.
+2024-10-04 18:53:37.143 - ShareX starting.
+2024-10-04 18:53:37.154 - Version: 16.1
+2024-10-04 18:53:37.155 - Build: MicrosoftStore
+2024-10-04 18:53:37.156 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-04 18:53:37.156 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-04 18:53:37.160 - Operating system: Windows 10 Pro (64-bit)
+2024-10-04 18:53:37.168 - Running as elevated process: False
+2024-10-04 18:53:37.358 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 18:53:39.276 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-04 18:53:39.294 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 18:53:39.372 - MainForm init started.
+2024-10-04 18:53:39.778 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-04 18:53:39.786 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 18:53:39.992 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-04 18:53:40.822 - MainForm init finished.
+2024-10-04 18:53:41.414 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-04 18:53:41.415 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-04 18:53:41.415 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-04 18:53:41.415 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-04 18:53:41.415 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-04 18:53:41.419 - HotkeyManager started.
+2024-10-04 18:53:41.421 - WatchFolderManager started.
+2024-10-04 18:53:41.470 - Startup time: 4588 ms
+2024-10-06 09:19:01.193 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:19:01.707 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:19:31.804 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:19:32.110 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:19:33.787 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:19:33.797 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-06 09:19:33.805 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-06 09:19:33.874 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-06 09:19:33.999 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-06 09:19:34.200 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:19:56.348 - Executing: Capture region
+2024-10-06 09:20:09.404 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:20:09.404 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-06 09:20:09.406 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-06 09:20:09.510 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-06 09:20:09.664 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-06 09:20:09.778 - Task in queue. Job: Job, Type: Image, Host: 
+2024-10-06 09:20:09.939 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-06 09:20:09.978 - Task status: Preparing
+2024-10-06 09:20:10.298 - Image copied to clipboard.
+2024-10-06 09:20:10.704 - Image saved to file: \\Mac\Home\Documents\ShareX\Screenshots\2024-10\explorer_EzbHON74Wm.jpg
+2024-10-06 09:20:10.782 - Task completed. File name: explorer_EzbHON74Wm.jpg, Duration: 800 ms
+2024-10-06 10:02:11.432 - Arguments received: ""
+2024-10-08 21:41:08.813 - ShareX starting.
+2024-10-08 21:41:08.817 - Version: 16.1
+2024-10-08 21:41:08.817 - Build: MicrosoftStore
+2024-10-08 21:41:08.817 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_16.1.0.0_x64__egrzcvs15399j\ShareX.exe" 
+2024-10-08 21:41:08.818 - Personal path: \\Mac\Home\Documents\ShareX
+2024-10-08 21:41:08.819 - Operating system: Windows 10 Pro (64-bit)
+2024-10-08 21:41:08.826 - Running as elevated process: False
+2024-10-08 21:41:09.220 - ApplicationConfig load started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-08 21:41:12.018 - ApplicationConfig load finished: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-08 21:41:12.050 - UploadersConfig load started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-08 21:41:12.137 - MainForm init started.
+2024-10-08 21:41:12.519 - UploadersConfig load finished: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-08 21:41:12.527 - HotkeysConfig load started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-08 21:41:12.704 - HotkeysConfig load finished: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-08 21:41:14.490 - MainForm init finished.
+2024-10-08 21:41:14.961 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2024-10-08 21:41:14.962 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2024-10-08 21:41:14.962 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2024-10-08 21:41:14.962 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2024-10-08 21:41:14.962 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-10-08 21:41:14.966 - HotkeyManager started.
+2024-10-08 21:41:14.968 - WatchFolderManager started.
+2024-10-08 21:41:14.999 - Startup time: 6466 ms
+2024-10-09 07:08:04.341 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-09 07:08:04.811 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-09 07:08:05.414 - ApplicationConfig save started: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-09 07:08:05.415 - UploadersConfig save started: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-09 07:08:05.417 - HotkeysConfig save started: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-09 07:08:05.518 - HotkeysConfig save successful: \\Mac\Home\Documents\ShareX\HotkeysConfig.json
+2024-10-09 07:08:05.649 - UploadersConfig save successful: \\Mac\Home\Documents\ShareX\UploadersConfig.json
+2024-10-09 07:08:05.807 - ApplicationConfig save successful: \\Mac\Home\Documents\ShareX\ApplicationConfig.json
+2024-10-09 08:17:55.053 - Arguments received: ""
